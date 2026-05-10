@@ -49,7 +49,16 @@
     </header>
 
     <div class="ad-container">
-        [728x90 Banner Ad Location]
+        <script>
+  atOptions = {
+    'key' : '0706b0dfbb7201caf5c3fcf0ea765151',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/0706b0dfbb7201caf5c3fcf0ea765151/invoke.js"></script>
     </div>
 
     <div class="container">
@@ -61,7 +70,7 @@
                 <img src="https://m.media-amazon.com/images/M/MV5BODZlZTRhNTMtODU0OC00YTM1LWI2N2QtYmU4YmZlOTVmMjY3XkEyXkFqcGc@._V1_.jpg" alt="Chainsaw Man">
                 <div class="card-info">
                     <h3>Chainsaw Man: Reze Arc</h3>
-                    <a href="PASTE_YOUR_GPLINKS_URL_HERE" class="watch-btn">WATCH NOW</a>
+                    <a href="https://adrinolinks.com/ITqw37r8" class="watch-btn">WATCH NOW</a>
                 </div>
             </div>
 
@@ -69,7 +78,7 @@
                 <img src="https://m.media-amazon.com/images/M/MV5BNDNlZjYxNmYtMDE0Ny00YjVlLTg1N2YtYmI5YmQ4ZDY3YzY2XkEyXkFqcGc@._V1_.jpg" alt="Angel Next Door">
                 <div class="card-info">
                     <h3>Angel Next Door</h3>
-                    <a href="PASTE_YOUR_GPLINKS_URL_HERE" class="watch-btn">WATCH NOW</a>
+                    <a href="https://gplinks.co/Lwu15WTJ" class="watch-btn">WATCH NOW</a>
                 </div>
             </div>
 
@@ -77,7 +86,7 @@
     </div>
 
     <div class="ad-container">
-        [Native Ad Location]
+        <script src="https://pl29408088.profitablecpmratenetwork.com/37/37/f4/3737f46679dec09d54613353d29c208e.js"></script>
     </div>
 
     <footer>
